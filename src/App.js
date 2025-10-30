@@ -9,7 +9,7 @@ function App() {
         <p>K-PaaS 쿠버네티스 자동화 배포 테스트용 프런트엔드 애플리케이션</p>
         <div className="status">
           <span className="status-indicator">🟢</span>
-          <span>첫번째 이미지입니다.</span>
+          <span>첫 번째 이미지입니다.</span>
         </div>
       </header>
     </div>
