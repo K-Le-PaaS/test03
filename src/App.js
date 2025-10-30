@@ -9,7 +9,7 @@ function App() {
         <p>쿠버네티스 자동화 배포 테스트용 프런트엔드 애플리케이션</p>
         <div className="status">
           <span className="status-indicator">🟢</span>
-          <span>서비스 정상 동작 중</span>
+          <span>첫번째 변경 전입니다.</span>
         </div>
       </header>
     </div>
