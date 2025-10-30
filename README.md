@@ -1,2 +1,2 @@
 # template-repository
-공통 환경 세팅을 위한 템플릿 저장소입니다.
+k-le-paas platform test를 위한 프런트엔드 임스 레포지토리입니다.
